@@ -1,6 +1,0 @@
-Wed Oct 18 17:10:52 IDT 2017 [INFO] Oleg test flow2 STARTED.
-Wed Oct 18 17:10:52 IDT 2017 [INFO] Oleg test flow2 FINISHED.
-Wed Oct 18 17:10:55 IDT 2017 [INFO] Oleg test flow3 STARTED.
-Wed Oct 18 17:10:55 IDT 2017 [INFO] Oleg test flow3 FINISHED.
-Wed Oct 18 17:10:58 IDT 2017 [INFO] Oleg test flow1 STARTED.
-Wed Oct 18 17:10:58 IDT 2017 [INFO] Oleg test flow1 FINISHED.

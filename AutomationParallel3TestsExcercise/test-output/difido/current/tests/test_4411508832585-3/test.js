@@ -1,1 +1,0 @@
-var test = {"uid":"4411508832585-3","reportElements":[{"title":"test flow6 STARTED.Thread ID:18","message":null,"status":"success","type":"regular","time":"11:09:56:"},{"title":"test flow5 FINISHED.Thread ID:17","message":null,"status":"success","type":"regular","time":"11:09:57:"}]};
